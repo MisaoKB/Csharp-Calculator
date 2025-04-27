@@ -1,0 +1,33 @@
+C:\Users\Hiira\OneDrive\Área de Trabalho\Calculadora C#\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.exe
+C:\Users\Hiira\OneDrive\Área de Trabalho\Calculadora C#\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.deps.json
+C:\Users\Hiira\OneDrive\Área de Trabalho\Calculadora C#\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.runtimeconfig.json
+C:\Users\Hiira\OneDrive\Área de Trabalho\Calculadora C#\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.dll
+C:\Users\Hiira\OneDrive\Área de Trabalho\Calculadora C#\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.pdb
+C:\Users\Hiira\OneDrive\Área de Trabalho\Calculadora C#\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.Form1.resources
+C:\Users\Hiira\OneDrive\Área de Trabalho\Calculadora C#\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\Hiira\OneDrive\Área de Trabalho\Calculadora C#\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hiira\OneDrive\Área de Trabalho\Calculadora C#\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Hiira\OneDrive\Área de Trabalho\Calculadora C#\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\Hiira\OneDrive\Área de Trabalho\Calculadora C#\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Hiira\OneDrive\Área de Trabalho\Calculadora C#\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.dll
+C:\Users\Hiira\OneDrive\Área de Trabalho\Calculadora C#\Calculadora\Calculadora\obj\Debug\net8.0-windows\refint\Calculadora.dll
+C:\Users\Hiira\OneDrive\Área de Trabalho\Calculadora C#\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.pdb
+C:\Users\Hiira\OneDrive\Área de Trabalho\Calculadora C#\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\Hiira\OneDrive\Área de Trabalho\Calculadora C#\Calculadora\Calculadora\obj\Debug\net8.0-windows\ref\Calculadora.dll
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Calculadora\bin\Debug\net8.0-windows\Calculadora.exe
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Calculadora\bin\Debug\net8.0-windows\Calculadora.deps.json
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Calculadora\bin\Debug\net8.0-windows\Calculadora.runtimeconfig.json
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Calculadora\bin\Debug\net8.0-windows\Calculadora.dll
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Calculadora\bin\Debug\net8.0-windows\Calculadora.pdb
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Calculadora\obj\Debug\net8.0-windows\Calculadora.Form1.resources
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.GenerateResource.cache
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Calculadora\obj\Debug\net8.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfoInputs.cache
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfo.cs
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Calculadora\obj\Debug\net8.0-windows\Calculadora.sourcelink.json
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Calculadora\obj\Debug\net8.0-windows\Calculadora.dll
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Calculadora\obj\Debug\net8.0-windows\refint\Calculadora.dll
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Calculadora\obj\Debug\net8.0-windows\Calculadora.pdb
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Calculadora\obj\Debug\net8.0-windows\Calculadora.genruntimeconfig.cache
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Calculadora\obj\Debug\net8.0-windows\ref\Calculadora.dll

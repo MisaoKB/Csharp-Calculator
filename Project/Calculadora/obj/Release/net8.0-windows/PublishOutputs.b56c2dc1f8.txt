@@ -1,0 +1,5 @@
+C:\Users\Hiira\OneDrive\Área de Trabalho\Publish Calculadora\Calculadora.exe
+C:\Users\Hiira\OneDrive\Área de Trabalho\Publish Calculadora\Calculadora.dll
+C:\Users\Hiira\OneDrive\Área de Trabalho\Publish Calculadora\Calculadora.deps.json
+C:\Users\Hiira\OneDrive\Área de Trabalho\Publish Calculadora\Calculadora.runtimeconfig.json
+C:\Users\Hiira\OneDrive\Área de Trabalho\Publish Calculadora\Calculadora.pdb
