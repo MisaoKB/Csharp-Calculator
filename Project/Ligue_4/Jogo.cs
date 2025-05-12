@@ -85,6 +85,7 @@ namespace Ligue_4
                 imagens_slots[6, 5] = img_slot41;
         }
 
+        
         private void jnl_jogo_Load(object sender, EventArgs e)
         {
             jogadores[0] = new Jogador("Amarelo", Resources.peca_amarelo, true);
@@ -94,6 +95,7 @@ namespace Ligue_4
                                         jogadores[0].Peca, 
                                         jogadores[0].Jogando);
         }
+        
         private void Passar_Rodada()
         {
             if (Num_Rodada > 6)
@@ -277,6 +279,7 @@ namespace Ligue_4
                 Environment.Exit(1);
             }
         }
+        
         private void btn_colocar_peca0_Click(object sender, EventArgs e)
         {
             byte coluna = 0;
@@ -343,6 +346,34 @@ namespace Ligue_4
         private void jnl_jogo_FormClosing(object sender, FormClosingEventArgs e)
         {
             Environment.Exit(1);
+        }
+
+        private void jnl_jogo_KeyDown(object sender, KeyEventArgs e)
+        {
+            switch (e.KeyCode)
+            {
+                case Keys.D1:
+                    btn_colocar_peca0_Click(sender, e);
+                    break;
+                case Keys.D2:
+                    btn_colocar_peca1_Click(sender, e);
+                    break;
+                case Keys.D3:
+                    btn_colocar_peca2_Click(sender, e); 
+                    break;
+                case Keys.D4:
+                    btn_colocar_peca3_Click(sender, e);
+                    break;
+                case Keys.D5:
+                    btn_colocar_peca4_Click(sender, e);
+                    break;
+                case Keys.D6:
+                    btn_colocar_peca5_Click(sender, e);
+                    break;
+                case Keys.D7:
+                    btn_colocar_peca6_Click(sender, e);
+                    break;
+            }
         }
     }
 }

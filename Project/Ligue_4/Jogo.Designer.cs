@@ -627,12 +627,14 @@
             this.Controls.Add(this.img_slot14);
             this.Controls.Add(this.img_slot7);
             this.Controls.Add(this.img_slot0);
+            this.KeyPreview = true;
             this.Name = "jnl_jogo";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Jogo";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.jnl_jogo_FormClosing);
             this.Load += new System.EventHandler(this.jnl_jogo_Load);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.jnl_jogo_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.img_slot41)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.img_slot34)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.img_slot27)).EndInit();
