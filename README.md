@@ -17,3 +17,8 @@ Um jogo com o objetivo de fazer uma linha de peças da mesma cor na horizontal, 
 A program to manage appointments using calendar and specific hourtime. 
 
 Um programa para gerenciar compromissos usando calendário e horários específicos.
+
+## 4. *Electronic Voting Machine*<br>
+A program that simulates a electronic voting machine, having the same features and buttons presents in the original version.
+
+Um programa que simula uma urna eletrônica, tendo o mesmo funcionamento e botões presentes na real
