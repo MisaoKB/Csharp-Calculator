@@ -13,3 +13,7 @@ A game with goal to make a line of pieces with same color in horizontal, vertica
 
 Um jogo com o objetivo de fazer uma linha de peças da mesma cor na horizontal, vertical ou diagonal para vencer.
 
+## 3. *Schedule Manager*<br>
+A program to manage appointments using calendar and specific hourtime. 
+
+Um programa para gerenciar compromissos usando calendário e horários específicos.
