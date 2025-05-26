@@ -157,7 +157,7 @@ namespace Ligue_4
                         if (imagens_slots[coluna, i].Image == null)
                         {
                             imagens_slots[coluna, i].Image = peca;
-                            tocarSom("colocar_peca");
+                            //tocarSom("colocar_peca");
                             Pecas_Colunas[coluna]++;
                             Passar_Rodada();
 
@@ -168,14 +168,14 @@ namespace Ligue_4
             }
             return false;
         }
-        private void tocarSom(string som)
-        {
-            string caminho = AppDomain.CurrentDomain.BaseDirectory;
-            caminho = Path.GetFullPath(Path.Combine(caminho, @"..\..\Resources"));
-            caminho = Path.GetFullPath(Path.Combine(caminho, $@"{som}.wav"));
-            SoundPlayer simpleSound = new SoundPlayer(caminho);
-            simpleSound.Play();
-        }
+        //private void tocarSom(string som)
+        //{
+        //    string caminho = AppDomain.CurrentDomain.BaseDirectory;
+        //    caminho = Path.GetFullPath(Path.Combine(caminho, @"..\..\Resources"));
+        //    caminho = Path.GetFullPath(Path.Combine(caminho, $@"{som}.wav"));
+        //    SoundPlayer simpleSound = new SoundPlayer(caminho);
+        //    simpleSound.Play();
+        //}
         private void Passar_Rodada()
         {
             if (Num_Rodada > 6)
@@ -382,7 +382,7 @@ namespace Ligue_4
             btn_colocar_peca5.Hide();
             btn_colocar_peca6.Hide();
 
-            tocarSom("ganhar");
+            //tocarSom("ganhar");
             MessageBoxButtons botao = MessageBoxButtons.OK;
             DialogResult resultado = MessageBox.Show($"O jogador {jogador_atual.Nome} ganhou!", "Vitória!", botao);
 
@@ -402,7 +402,7 @@ namespace Ligue_4
             btn_colocar_peca5.Hide();
             btn_colocar_peca6.Hide();
 
-            tocarSom("empatar");
+            //tocarSom("empatar");
             MessageBoxButtons botao = MessageBoxButtons.OK;
             DialogResult resultado = MessageBox.Show("O jogo empatou!", "Empate", botao);
 
