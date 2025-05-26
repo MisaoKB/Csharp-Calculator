@@ -3,6 +3,13 @@ A collection of projects made in C# and Windows Forms<br>
 
 Uma coleção de projetos feitos em C# e Windows Forms<br> 
 
+## Membros do projeto e RAs
+
+- Danilo Batista Pereira: 3022106926
+- Erick Fernando Priore Michelan: 3023104368
+- Matheus Osmédio Araujo: 3024102070
+- Sílvio Bernardo Sapuile: 3023203839
+
 ## 1. *Calculator*<br>
 A simple calculator, made in C# and Windows Forms, with mathematical operations of addition, subtraction, multiplication, division and square root.
 
