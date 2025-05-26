@@ -23,6 +23,14 @@ namespace Ligue_4
             jnl_jogo Jogo = new jnl_jogo();
             Jogo.Show();
         }
-
+        private void jnl_inicio_KeyDown(object sender, KeyEventArgs e)
+        {
+            switch (e.KeyCode)
+            {
+                case Keys.Enter:
+                    Environment.Exit(1);
+                    break;
+            }
+        }
     }
 }
