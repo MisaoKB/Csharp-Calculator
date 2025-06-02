@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Urna_2._0.Properties;
 
 namespace Urna_2._0
 {
-    internal static class Program
+    public static class Program
     {
         /// <summary>
         /// The main entry point for the application.
@@ -16,7 +17,8 @@ namespace Urna_2._0
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new jnl_urna());
+            Application.Run(new jnl_inicio());
         }
+
     }
 }

@@ -8,3 +8,6 @@ D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Urna 2.0\obj\Debug\
 D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Urna 2.0\obj\Debug\Urna 2.0.exe
 D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Urna 2.0\obj\Debug\Urna 2.0.pdb
 D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Urna 2.0\obj\Debug\Urna_2._0.jnl_urna.resources
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Urna 2.0\obj\Debug\Urna_2._0.jnl_fim_voto.resources
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Urna 2.0\obj\Debug\Urna_2._0.jnl_inicio.resources
+D:\GitHub_Repos\CC_Repos\Programacao_Visual_Projetos\Project\Urna 2.0\obj\Debug\Urna_2._0.jnl_info.resources
